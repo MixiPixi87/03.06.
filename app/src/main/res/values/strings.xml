@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="view_pager_description">Description for ViewPager</string>
+</resources>
